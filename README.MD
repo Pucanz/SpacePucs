@@ -1,4 +1,4 @@
-🚀 SpacePucs 🚀
+# 🚀 SpacePucs 🚀
 
 Welcome to SpacePucs! This is my first game project and a significant milestone in my new journey as a developer. After changing careers and diving headfirst into a Java bootcamp, I created this game as my first "big step" into the world of programming. It's simple, but full of learning and enthusiasm — I hope you enjoy it!
 
