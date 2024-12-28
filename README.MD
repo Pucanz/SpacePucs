@@ -4,7 +4,7 @@ Welcome to SpacePucs! This is my first game project and a significant milestone 
 
 ## About the Game 🎮
 
-SpacePucs is a straightforward game, but made with a lot of excitement and learning. Face obstacles, navigate through space, and try to beat your high score (or just survive)!
+SpacePucs is a straightforward 2D game, but made with a lot of excitement and learning. Face obstacles, navigate through space, and try to beat your high score (or just survive)!
 
 ## How to Play 🕹️
 
@@ -14,7 +14,7 @@ Note: Your java version should be 17.0 ou higher.
 
 ## Instructions 🕹️
 
-Use the arrow keys to move your spaceship and press the spacebar to shoot fireballs at your enemies! If you die, you can press Enter and play again.
+Use the arrow keys to move your spaceship and press the spacebar to shoot fireballs at your enemies! If you lost, you can press Enter and play again.
 And that’s it! Enjoy the intergalactic adventure!
 
 ## Next Steps 🚀
@@ -26,5 +26,3 @@ This is just the beginning, but I already have plenty of ideas for the future. F
 ![Project Demo](assets/demo.gif)
 
 Have fun! 🎉
-
-
