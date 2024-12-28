@@ -21,7 +21,7 @@ And that’s it! Enjoy the intergalactic adventure!
 
 This is just the beginning, but I already have plenty of ideas for the future. Follow along and feel free to give suggestions!
 
-## Demo 
+## Demo 🎮
 
 ![Demonstração do Projeto](assets/demo.gif)
 
