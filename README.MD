@@ -23,7 +23,7 @@ This is just the beginning, but I already have plenty of ideas for the future. F
 
 ## Demo 🎮
 
-![Demonstração do Projeto](assets/demo.gif)
+![Project Demo](assets/demo.gif)
 
 Have fun! 🎉
 
