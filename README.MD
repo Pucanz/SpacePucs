@@ -9,14 +9,22 @@ SpacePucs is a straightforward game, but made with a lot of excitement and learn
 ## How to Play 🕹️ 
 
 Download the game: Download the .jar file.
-Run it: Open the terminal, navigate to the download folder, and run: java -jar SpacePucs.jar
+Run it: Open the terminal, navigate to the download folder, and run: java -jar SpacePucs.jar.
+Note: Your java version should be 17.0 ou higher.
 
 ## Instructions 🕹️
 
-Use the arrow keys to move your spaceship and press the spacebar to shoot fireballs at your enemies! And that’s it! Enjoy the intergalactic adventure!
+Use the arrow keys to move your spaceship and press the spacebar to shoot fireballs at your enemies! If you die, you can press Enter and play again.
+And that’s it! Enjoy the intergalactic adventure!
 
 ## Next Steps 🚀 
 
 This is just the beginning, but I already have plenty of ideas for the future. Follow along and feel free to give suggestions!
 
+## Demo 
+
+![Demonstração do Projeto](assets/demo.gif)
+
 Have fun! 🎉
+
+
